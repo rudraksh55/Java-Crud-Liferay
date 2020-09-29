@@ -1,0 +1,6 @@
+Bundle-Name: employee-impl
+Bundle-SymbolicName: com.employee.impl
+Bundle-Version: 1.0.0
+Export-Package: \
+	com.employee.impl.constants,\
+	com.employee.api

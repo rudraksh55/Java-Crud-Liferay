@@ -1,0 +1,4 @@
+Bundle-Name: employe-api
+Bundle-SymbolicName: com.employee
+Bundle-Version: 1.0.0
+Export-Package: com.employee.constants
